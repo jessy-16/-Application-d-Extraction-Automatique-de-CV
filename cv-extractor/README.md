@@ -23,7 +23,7 @@ Application web permettant d’extraire automatiquement des informations depuis 
 
 ## Installation (sans Docker)
 ```bash
-git clone https://github.com/ton-compte/cv-extractor.git
+git clone https://github.com/compte/cv-extractor.git
 cd cv-extractor
 
 #Vous pouvez créer un environnement virtuel si vous le souhaitez
